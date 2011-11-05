@@ -1,0 +1,6 @@
+<?php
+header('Content-Type: text/html; charset=UTF-8');
+define( "WB_AKEY" , '3438894364' );
+define( "WB_SKEY" , 'b4d6d68bbe8b54b61473099802d59a01' );
+define( "CANVAS_PAGE" , "http://apps.weibo.com/analysisme" );
+
